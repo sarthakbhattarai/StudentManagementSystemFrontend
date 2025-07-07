@@ -44,7 +44,7 @@ Getting Started
 
 Clone the repository
 
-git clone https://github.com/your-org/student-mgmt-frontend.git
+git clone [https://github.com/your-org/student-mgmt-frontend.git](https://github.com/sarthakbhattarai/StudentManagementSystemFrontend.git)
 cd student-mgmt-frontend
 
 Install dependencies
