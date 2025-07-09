@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import TopNavbar from './Navbar';
+import TopNavbar from '../shared/Navbar';
 
 
 const Dashboard = () => {
